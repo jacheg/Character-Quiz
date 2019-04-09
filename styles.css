@@ -1,0 +1,30 @@
+img{
+ height: 300px;   
+ border: grey 10px solid;
+ border-radius: 10px;
+}
+
+button{
+    padding: 8px 15px;
+    font-size: 16px;
+    font-family: 'Fascinate Inline', cursive;
+    color: rgb(113, 66, 244);
+    margin: 10px 5px 10px 0px;
+}
+
+h1{
+ font-family: 'Anton', sans-serif;   
+}
+
+.answers{
+    margin: 30px 5px 30px 0px;  
+}
+
+.idk{
+ margin:30px 5px 30px 0px;  
+}
+
+hr{
+    border: 8px solid grey;
+    border-radius: 10px;
+}
